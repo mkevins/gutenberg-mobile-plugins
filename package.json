@@ -1,0 +1,14 @@
+{
+  "name": "gutenberg-mobile-plugins",
+  "version": "0.0.1",
+  "description": "Experimental Mobile Gutenberg Plugins Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gutenberg-plugin-hello-world": "mkevins/gutenberg-plugin-hello-world.git",
+  },
+  "author": "",
+  "license": "ISC"
+}
